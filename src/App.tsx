@@ -1,4 +1,4 @@
-import { Button } from './pages/Button'
+import { Button } from './pages/Button/Button'
 import { ThemeProvider } from 'styled-components'
 import { defaultTheme } from './styles/themes/defaultTheme'
 import { GlobalStyle } from './styles/global'
@@ -11,7 +11,7 @@ export function App() {
       <BrowserRouter>
         <Router />
       </BrowserRouter>
-      
+
       <Button variant="primary" />
       <Button variant="secondary" />
       <Button variant="success" />

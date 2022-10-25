@@ -1,11 +1,11 @@
 {
-  "extends": "@rocketseat/eslint-config/react",
-  "prettier/prettier": [
-  "error",
-  {
-    "endOfLine": "auto"
-  }
-]
+  "extends": "@rocketseat/eslint-config/react"
+//   "prettier/prettier": [
+//   "error",
+//   {
+//     "endOfLine": "auto"
+//   }
+// ]
 }
 
 // PS C:\Users\workspace> npx eslint src --ext .ts,.tsx --fix
