@@ -51,6 +51,7 @@ export function Home() {
             <option value="Projeto 2" />
             <option value="Projeto 3" />
             <option value="Projeto 4" />
+            <option value="Projeto 5" />
           </datalist>
 
           <label htmlFor="minutesAmount">durante</label>
